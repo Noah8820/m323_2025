@@ -54,4 +54,4 @@ println(wörterSortieren(wörter))
 // Erwartete Ausgabe: List(("programmieren", 11), ("funktional", 9), ("lernen", 6), ("scala", 3))
 ```
 ## Fazit
-### Diese Lösungen wurden in funktionaler und deklarativer Programmierung umgesetzt, indem sie sich auf das WAS anstelle des WIE konzentrieren. Sie vermeiden explizite Schleifen und Mutationen und setzen auf höhere Funktionen und Listenoperationen.
+Diese Lösungen wurden in funktionaler und deklarativer Programmierung umgesetzt, indem sie sich auf das WAS anstelle des WIE konzentrieren. Sie vermeiden explizite Schleifen und Mutationen und setzen auf höhere Funktionen und Listenoperationen.
